@@ -10,6 +10,6 @@ https://picx.xpoet.cn/#/upload
 
 2023.10.12  14:30
 
-❸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_2023
+❸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_2023_yajun
 
 适用于github图床：picx
