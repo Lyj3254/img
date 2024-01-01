@@ -9,11 +9,8 @@
 <br>
 保存路径：usr/uploads/年份/月份/文件名称。
 其中，年份、月份是根据上传时的真实时间自动分配的。
-
-<br>
 <br>
 当然，也可以使用第三方工具对该仓库内的图片文件进行管理操作。
-
 <br>
 <br>
 软件名称：picx
@@ -31,7 +28,8 @@ https://picx.xpoet.cn/#/upload
 (图片直接上传到github仓库内，可以自由管理)
 (可以生成图片直链)
 <br>
- ❸测试代码1：
+<br>
+ ❸测试代码：
 <br>
 2023_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_YaJun_2023
 <br>
