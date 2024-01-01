@@ -11,6 +11,6 @@ https://picx.xpoet.cn/#/upload
 (可以生成图片直链)
 
  ❸测试代码1：
-2023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_YaJun_2023
+2023_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_YaJun_2023
 
  ❹测试……
