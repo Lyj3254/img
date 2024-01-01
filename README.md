@@ -4,7 +4,9 @@
 <br>
 2.该仓库已对接typecho附件(图片文件)上传保存路径。
 <br>
+<br>
 备注①：
+<br>
 该仓库在typecho文章中上传附件(图片文件……)后，会自动保存到该仓库中：
 <br>
 保存路径：usr/uploads/年份/月份/文件名称。
@@ -13,7 +15,9 @@
 当然，也可以使用第三方工具对该仓库内的图片文件进行管理操作。
 <br>
 <br>
+<br>
 软件名称：picx
+<br>
 <br>
  ❶介绍： 
 <br>
@@ -33,5 +37,7 @@ https://picx.xpoet.cn/#/upload
 <br>
 2023_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_YaJun_2023
 <br>
+<br>
  ❹测试……
+<br>
 <br>
